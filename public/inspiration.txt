@@ -1,0 +1,4 @@
+This is a text file containing inspiration for particle simulation and related topics and subjects
+
+PHYSICS:
+- Verlet Integration (https://en.wikipedia.org/wiki/Verlet_integration)
